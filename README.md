@@ -1,7 +1,7 @@
 # Intelligent-Systems-for-Vehicle
-Intelligent Systems for Vehicle is an IoT project. It integrates various features to enhance the vehicle safety and monitoring capabilities and providing Safer journeys on the road 
+Intelligent Systems for Vehicle is an IoT project. It integrates various features to enhance the vehicle safety and monitoring capabilities and providing Safer journeys on the road.
 
-The various features includes:
+The various features includes
 
 1. Accident Alert
 2. Alcohol Detection
