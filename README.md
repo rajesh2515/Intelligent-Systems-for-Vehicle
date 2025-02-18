@@ -11,6 +11,6 @@ The various features includes:
 6. Vehicle Environment Monitoring
 7. Fuel Level Monitoring
 
-• Leveraged IoT technology for Integrating various features to enhance vehicle safety and real-time monitoring capabilities.<br>
-• This project integrates various features like Accident alert, Alcohol detection, vehicle tracking etc. We can observe each feature in ISV website by connecting hardware.<br> 
-• The website is built using HTML, CSS and JavaScript to ensure a responsive and user-friendly experience.
+#Leveraged IoT technology for Integrating various features to enhance vehicle safety and real-time monitoring capabilities.<br>
+#This project integrates various features like Accident alert, Alcohol detection, vehicle tracking etc. We can observe each feature in ISV website by connecting hardware.<br> 
+#The website is built using HTML, CSS and JavaScript to ensure a responsive and user-friendly experience.
